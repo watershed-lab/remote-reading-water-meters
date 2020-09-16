@@ -14,5 +14,5 @@ Para interpretar las predicciones se invierte el reescalado de los datos. Las m�
 
 ### Rutas para la ejecución
 
-Los archivos con de cuaderno y las imágenes de prueba se deben ponerse en la carpeta de usuario.
+Los archivos con el cuaderno y el dataset se deben ponerse en la carpeta de usuario.
 
